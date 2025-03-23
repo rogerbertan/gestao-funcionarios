@@ -8,7 +8,10 @@ Um pequeno sistema em Java para gerenciar funcionários de uma empresa, usando P
 
 ## Como executar?
 1. Compile o código:
+```sh
 javac gestao_funcionarios/*.java
-
-2. Execute:
+```
+3. Execute:
+```sh
 java gestao_funcionarios.Main
+```
